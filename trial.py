@@ -298,3 +298,5 @@ str(USArrests)
 str(storms)
 View(storms)
 data() #Opens the catalogue of the data that come installed with the Programme or with the packages.
+
+# This is the different line from the original
